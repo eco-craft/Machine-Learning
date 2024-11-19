@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Plastik</folder>
+	<filename>Image_30.jpg</filename>
+	<path>C:\Users\WatsonNick\Bangkit EcoCraft\DATASETS\Plastik\Image_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>324</width>
+		<height>243</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>botol plastik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>51</ymin>
+			<xmax>151</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>botol plastik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>16</ymin>
+			<xmax>212</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

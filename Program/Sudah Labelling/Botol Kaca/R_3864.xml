@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kaca</folder>
+	<filename>R_3864.jpg</filename>
+	<path>C:\Users\WatsonNick\Bangkit EcoCraft\DATASETS\Kaca\R_3864.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>182</width>
+		<height>277</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>botol kaca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>6</ymin>
+			<xmax>130</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

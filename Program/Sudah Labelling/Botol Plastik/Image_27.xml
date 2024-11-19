@@ -1,0 +1,74 @@
+<annotation>
+	<folder>Plastik</folder>
+	<filename>Image_27.jpg</filename>
+	<path>C:\Users\WatsonNick\Bangkit EcoCraft\DATASETS\Plastik\Image_27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>botol plastik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>56</ymin>
+			<xmax>199</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>botol plastik</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>1</ymin>
+			<xmax>77</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>botol plastik</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>1</ymin>
+			<xmax>133</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>botol plastik</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>1</ymin>
+			<xmax>252</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>botol plastik</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>1</ymin>
+			<xmax>312</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kardus</folder>
+	<filename>R_2163.jpg</filename>
+	<path>C:\Users\WatsonNick\Bangkit EcoCraft\DATASETS\Kardus\R_2163.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>187</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kardus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>10</ymin>
+			<xmax>262</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
