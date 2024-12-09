@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>g32_jpg.rf.d5a9b67cf4a86272354f7178e75645fd.jpg</filename>
+	<path>g32_jpg.rf.d5a9b67cf4a86272354f7178e75645fd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>255</xmin>
+			<xmax>450</xmax>
+			<ymin>40</ymin>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

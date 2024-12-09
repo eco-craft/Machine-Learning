@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>83-jpg__jpg-jpganti-clockwise_jpg.rf.a7449d39c15da0b8914accb1f7aa239f.jpg</filename>
+	<path>83-jpg__jpg-jpganti-clockwise_jpg.rf.a7449d39c15da0b8914accb1f7aa239f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kardus kondisi bagus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>596</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

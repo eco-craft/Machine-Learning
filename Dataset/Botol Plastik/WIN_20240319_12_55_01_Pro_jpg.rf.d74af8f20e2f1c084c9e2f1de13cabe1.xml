@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20240319_12_55_01_Pro_jpg.rf.d74af8f20e2f1c084c9e2f1de13cabe1.jpg</filename>
+	<path>WIN_20240319_12_55_01_Pro_jpg.rf.d74af8f20e2f1c084c9e2f1de13cabe1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>botol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>594</xmax>
+			<ymin>118</ymin>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>

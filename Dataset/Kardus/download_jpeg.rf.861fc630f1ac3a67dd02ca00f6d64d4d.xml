@@ -1,0 +1,43 @@
+<annotation>
+	<folder></folder>
+	<filename>download_jpeg.rf.861fc630f1ac3a67dd02ca00f6d64d4d.jpg</filename>
+	<path>download_jpeg.rf.861fc630f1ac3a67dd02ca00f6d64d4d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kardus kondisi bagus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>48</xmin>
+			<xmax>634</xmax>
+			<ymin>45</ymin>
+			<ymax>538</ymax>
+		</bndbox>
+		<polygon>
+			<x1>633.003952</x1>
+			<y1>123.441047</y1>
+			<x2>334.170783</x2>
+			<y2>44.132773</y2>
+			<x3>47.322152</x3>
+			<y3>110.911636</y3>
+			<x4>99.816107</x4>
+			<y4>329.146726</y4>
+			<x5>327.97087</x5>
+			<y5>537.330879</y5>
+			<x6>585.88515</x6>
+			<y6>347.734596</y6>
+			<x7>633.003952</x7>
+			<y7>123.441047</y7>
+		</polygon>
+	</object>
+</annotation>

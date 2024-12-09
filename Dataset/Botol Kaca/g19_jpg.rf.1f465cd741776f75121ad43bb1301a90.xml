@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>g19_jpg.rf.1f465cd741776f75121ad43bb1301a90.jpg</filename>
+	<path>g19_jpg.rf.1f465cd741776f75121ad43bb1301a90.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>290</xmin>
+			<xmax>401</xmax>
+			<ymin>111</ymin>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+</annotation>

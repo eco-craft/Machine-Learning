@@ -1,0 +1,67 @@
+<annotation>
+	<folder></folder>
+	<filename>5_jpg.rf.ee818d9f4336d7e9699c8add6d2d71c7.jpg</filename>
+	<path>5_jpg.rf.ee818d9f4336d7e9699c8add6d2d71c7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kardus kondisi bagus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>168</xmin>
+			<xmax>439</xmax>
+			<ymin>75</ymin>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kardus kondisi bagus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>178</xmin>
+			<xmax>462</xmax>
+			<ymin>226</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kardus kondisi bagus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>169</xmin>
+			<xmax>485</xmax>
+			<ymin>400</ymin>
+			<ymax>617</ymax>
+		</bndbox>
+		<polygon>
+			<x1>483.982621</x1>
+			<y1>571.460326</y1>
+			<x2>482.137299</x2>
+			<y2>398.811722</y2>
+			<x3>167.789789</x3>
+			<y3>414.697844</y3>
+			<x4>169.024887</x4>
+			<y4>598.616083</y4>
+			<x5>433.34238</x5>
+			<y5>615.896973</y5>
+			<x6>483.982621</x6>
+			<y6>571.460326</y6>
+		</polygon>
+	</object>
+</annotation>

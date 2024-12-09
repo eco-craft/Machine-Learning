@@ -1,0 +1,47 @@
+<annotation>
+	<folder></folder>
+	<filename>123-jpg__jpg-jpganti-clockwise-1-_jpg.rf.3ab558484e00d67731511ef9466801b6.jpg</filename>
+	<path>123-jpg__jpg-jpganti-clockwise-1-_jpg.rf.3ab558484e00d67731511ef9466801b6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kardus kondisi rusak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>48</xmin>
+			<xmax>553</xmax>
+			<ymin>71</ymin>
+			<ymax>556</ymax>
+		</bndbox>
+		<polygon>
+			<x1>220.900226</x1>
+			<y1>555.413858</y1>
+			<x2>251.778491</x2>
+			<y2>540.601659</y2>
+			<x3>419.755895</x3>
+			<y3>544.304722</y3>
+			<x4>551.914641</x4>
+			<y4>238.18573</y4>
+			<x5>364.17516</x5>
+			<y5>104.875865</y5>
+			<x6>143.087218</x6>
+			<y6>70.31406</y6>
+			<x7>46.74723</x7>
+			<y7>343.105542</y7>
+			<x8>187.551765</x8>
+			<y8>549.242003</y8>
+			<x9>220.900226</x9>
+			<y9>555.413858</y9>
+		</polygon>
+	</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20240611_023837_jpg.rf.0e444345d837e61c423dbd5e9e34dfc4.jpg</filename>
+	<path>IMG_20240611_023837_jpg.rf.0e444345d837e61c423dbd5e9e34dfc4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>air gelas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>409</xmin>
+			<xmax>544</xmax>
+			<ymin>269</ymin>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>air gelas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>157</xmax>
+			<ymin>292</ymin>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20240709_005615_jpg.rf.7dd5ab38452f14821dbf670253e099d8.jpg</filename>
+	<path>IMG_20240709_005615_jpg.rf.7dd5ab38452f14821dbf670253e099d8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>air-gelas-rusak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>149</xmin>
+			<xmax>424</xmax>
+			<ymin>224</ymin>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

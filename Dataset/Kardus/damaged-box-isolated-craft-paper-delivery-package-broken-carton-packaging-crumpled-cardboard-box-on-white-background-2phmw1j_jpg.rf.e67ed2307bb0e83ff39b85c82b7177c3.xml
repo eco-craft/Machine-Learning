@@ -1,0 +1,45 @@
+<annotation>
+	<folder></folder>
+	<filename>damaged-box-isolated-craft-paper-delivery-package-broken-carton-packaging-crumpled-cardboard-box-on-white-background-2phmw1j_jpg.rf.e67ed2307bb0e83ff39b85c82b7177c3.jpg</filename>
+	<path>damaged-box-isolated-craft-paper-delivery-package-broken-carton-packaging-crumpled-cardboard-box-on-white-background-2phmw1j_jpg.rf.e67ed2307bb0e83ff39b85c82b7177c3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kardus kondisi rusak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>112</xmin>
+			<xmax>557</xmax>
+			<ymin>85</ymin>
+			<ymax>505</ymax>
+		</bndbox>
+		<polygon>
+			<x1>122.375425</x1>
+			<y1>503.571138</y1>
+			<x2>548.894643</x2>
+			<y2>498.633654</y2>
+			<x3>556.477176</x3>
+			<y3>373.96426</y3>
+			<x4>497.712275</x4>
+			<y4>103.64152</y4>
+			<x5>152.559398</x5>
+			<y5>83.811722</y5>
+			<x6>127.114645</x6>
+			<y6>213.498766</y6>
+			<x7>111.001628</x7>
+			<y7>480.118392</y7>
+			<x8>122.375425</x8>
+			<y8>503.571138</y8>
+		</polygon>
+	</object>
+</annotation>
