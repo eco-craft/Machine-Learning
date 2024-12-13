@@ -35,7 +35,7 @@ Follow the steps below, and don't miss anything:
 1. Go to the last code sequence in the notebook and run it. Then, input an image from the testing folder to recognize the image.
 2. Here is some images that you can try on the model
 ```
-
+https://drive.google.com/drive/folders/19doFFzxGeuOd9I4H75Ekd9xQJqzIcZO-?usp=sharing
 ```
 
 ## Dataset Classes  
