@@ -18,18 +18,17 @@ Follow the steps below, and don't miss anything:
    ```
 5. Run the code in the notebook in the specified order, don't forget to check the dataset directory. 
 # Run on Colab
-1. Download the notebook in this link
+1. Copy the notebook in this link
    ```
    https://colab.research.google.com/drive/19gz5Bwl9JC1pvS5SAhil-1Bn-mNux7-R?authuser=3#scrollTo=L-IOplC8T3Zh
    ```
-3. Click copy to drive
-4. Download Dataset in
+2. Download Dataset in
    ```
    https://drive.google.com/drive/folders/14rlaYzfzXGF5v1FURKLtRgN1EPWCUk9S?usp=drive_link
    ```
-6. Upload dataset to your google drive
-7. Change path to your drive
-8. Run the code in the specific order
+3. Upload dataset to your google drive
+4. Change path to your drive
+5. Run the code in the specific order
 
 
 ## How to Test the Model?
