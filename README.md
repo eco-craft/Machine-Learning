@@ -50,7 +50,8 @@ Follow the steps below, and don't miss anything:
 8. Kardus
 9. Kertas
 10. Kotak susu
-11. Sendok Tutup Botol
+11. Sendok
+12. Tutup Botol
 
 ## Link to Dataset
 EcoCraft Dataset 
